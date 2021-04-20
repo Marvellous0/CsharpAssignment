@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.exe
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.deps.json
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.dll
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\ref\Question21.dll
+C:\Users\Favour .O\Desktop\Assignments\Question21\bin\Debug\net5.0\Question21.pdb
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.dll
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\ref\Question21.dll
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.pdb
+C:\Users\Favour .O\Desktop\Assignments\Question21\obj\Debug\net5.0\Question21.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.exe
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.deps.json
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.dll
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\ref\Question22.dll
+C:\Users\Favour .O\Desktop\Assignments\Question22\bin\Debug\net5.0\Question22.pdb
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.dll
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\ref\Question22.dll
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.pdb
+C:\Users\Favour .O\Desktop\Assignments\Question22\obj\Debug\net5.0\Question22.genruntimeconfig.cache
